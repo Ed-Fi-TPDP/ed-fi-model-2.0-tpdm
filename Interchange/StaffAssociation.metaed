@@ -15,4 +15,4 @@ Interchange StaffAssociation [2523]
     domain entity OpenStaffPosition [2523-007]
     association StaffProgramAssociation [2523-008]
 
-    domain entity Credential [2630]
+    domain entity Credential
