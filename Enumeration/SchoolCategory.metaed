@@ -15,3 +15,8 @@ Enumeration SchoolCategory [227]
     item "Ungraded" [227-013]
     item "Other Secondary" [227-015]
     item "Other Combination" [227-014]
+
+    item "Undergraduate"
+    item "Community College"
+    item "Graduate"
+    item "Workforce"

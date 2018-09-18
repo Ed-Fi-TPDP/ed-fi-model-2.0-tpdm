@@ -20,3 +20,8 @@ Descriptor AcademicSubject [121]
         item "Religious Education and Theology" [121-014]
         item "Military Science" [121-010]
         item "Other" [121-011]
+
+        item "Special Education"
+        item "Bilingual"
+        item "Multiple Subjects"
+        item "ELL"

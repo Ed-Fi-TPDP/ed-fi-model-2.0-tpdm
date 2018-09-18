@@ -38,3 +38,7 @@ Abstract Entity EducationOrganization [556]
     enumeration OperationalStatus [1387]
         documentation "The current operational status of the EducationOrganization (e.g., active, inactive)."
         is optional
+
+    descriptor FederalLocaleCode
+        documentation "(TPDP Extension) The federal locale code associated with an education organization."
+        is optional

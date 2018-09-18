@@ -23,3 +23,6 @@ Enumeration CourseLevelCharacteristic [152]
     item "Students with disabilities" [152-022]
     item "Untracked" [152-023]
     item "Other" [152-018]
+
+    item "Pedagogy"
+    item "Methods"

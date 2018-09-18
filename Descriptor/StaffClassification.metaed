@@ -24,4 +24,18 @@ Descriptor StaffClassification [237]
         item "Support Services Staff" [237-019]
             documentation "Professional and supervisory staff providing non-instructional services to students including attendance officers; staff providing health, psychology, speech pathology, audiology, or social services; and supervisors of the preceding staff and of health, transportation, and food service workers."
         item "Teacher" [237-020]
-        
+
+        item "School Counselor"
+        item "School Social Worker"
+        item "School Nurse"
+        item "Speech Language Pathologist"
+        item "Audiologist"
+        item "Psychologist"
+
+        item "Full Professor"
+        item "Assistant Professor"
+        item "Associate Professor"
+        item "Adjunct Professor"
+        item "Clinical Professor"
+	item "Site Coordinator"
+	item "Mentor Teacher"
